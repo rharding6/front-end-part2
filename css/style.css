@@ -12,6 +12,6 @@
 	background-color: black;
 }
 
-p  {
+div + div  {
 	color: aqua;
 }
