@@ -51,6 +51,8 @@
 				<div class="row">
 					<div class="col-md-4">
 						<img class="bugs img-circle" src="http://static.dnaindia.com/sites/default/files/2015/07/27/359539-clip-art-bugs-bunny-397350.jpg" alt="idek, man"/>
+
+						<p> <a href="https://google.com" target="_blank">Go to Google.com</a> </p>
 					</div>
 					<div class="col-md-4">
 						<img class="bugs img-responsive img-circle" src="https://i.ytimg.com/vi/R4AOKEjbPgA/hqdefault.jpg" alt="at the opera"/>
