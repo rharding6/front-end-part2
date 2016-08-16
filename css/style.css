@@ -10,8 +10,14 @@
 
 .container {
 	background-color: black;
+	/*this makes the border and the padding grow inside rather than outside the box*/
+	box-sizing: border-box;
 }
 
 div + div  {
 	color: aqua;
+}
+
+p {
+	margin: 15px;
 }
