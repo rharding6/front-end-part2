@@ -44,12 +44,26 @@
 		<main>
 			<div class="container">
 				<div class="row">
-					<p>whoohoo</p>
+					<div class="col-md-3">
 
+					</div>
+					<div class="col-md-3">
+
+					</div>
+					<div class="col-md-3">
+
+					</div>
+					<div class="col-md-3">
+
+					</div>
+					<div class="col-md-3">
+
+					</div>
 				</div>
 				<div class="row">
-					<p>get it</p>
+					<div class="col-xs-12">
 
+					</div>
 				</div>
 			</div>
 			<div class="container">
