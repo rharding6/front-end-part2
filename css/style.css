@@ -8,6 +8,10 @@
 
 }
 
+a:hover {
+	text-decoration: underline #ff165c;
+}
+
 .container {
 	background-color: black;
 	/*this makes the border and the padding grow inside rather than outside the box*/
