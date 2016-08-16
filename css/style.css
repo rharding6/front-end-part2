@@ -25,3 +25,8 @@ div + div  {
 p {
 	margin: 15px;
 }
+
+p:nth-child(1){
+	color: limegreen;
+}
+

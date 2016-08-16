@@ -60,10 +60,10 @@
 					</div>
 					<div class="col-md-4">
 						<img class="bugs img-circle" src="http://vignette2.wikia.nocookie.net/space-jam/images/1/15/Hare_Jordan.png/revision/latest?cb=20131004044514" alt="whoa"/>
+						<span>Michael Jordon never gets tired of hearing about the best movie made in the 90's</span>
 					</div>
 				</div>
 				</div>
-			</div>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-5">
@@ -71,6 +71,7 @@
 					</div>
 					<div class="col-md-7">
 						<p>Lethal Weapon 4 was a terrible movie! They had the perfect trilogy! I mean, c'mon!</p>
+
 					</div>
 				</div>
 			</div>
