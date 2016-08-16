@@ -37,48 +37,44 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	</head>
+
+
 	<body>
+
+
+
 		<header>
 
 		</header>
 		<main>
 			<div class="container">
 				<div class="row">
-					<div class="col-md-3">
-
+					<div class="col-md-4">
+						<img class="bugs img-circle" src="http://static.dnaindia.com/sites/default/files/2015/07/27/359539-clip-art-bugs-bunny-397350.jpg" alt="idek, man"/>
 					</div>
-					<div class="col-md-3">
-
+					<div class="col-md-4">
+						<img class="bugs img-responsive img-circle" src="https://i.ytimg.com/vi/R4AOKEjbPgA/hqdefault.jpg" alt="at the opera"/>
+						<p>always remember to warm up</p>
 					</div>
-					<div class="col-md-3">
-
-					</div>
-					<div class="col-md-3">
-
-					</div>
-					<div class="col-md-3">
-
+					<div class="col-md-4">
+						<img class="bugs img-circle" src="http://vignette2.wikia.nocookie.net/space-jam/images/1/15/Hare_Jordan.png/revision/latest?cb=20131004044514" alt="whoa"/>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-xs-12">
-
-					</div>
 				</div>
 			</div>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-5">
-						hey
+						<p>Space Jam was the best movie of the 90's</p>
 					</div>
 					<div class="col-md-7">
-						hiya
+						<p>Lethal Weapon 4 was a terrible movie! They had the perfect trilogy! I mean, c'mon!</p>
 					</div>
 				</div>
 			</div>
 		</main>
 		<footer>
-
+			&copy; 2016
 		</footer>
 	</body>
 
